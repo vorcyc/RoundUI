@@ -71,4 +71,4 @@ public partial class MainWindow : RoundNormalWindow
 }
 ```
 
-==This project also provides some new controls like ***RangeSlider*** , explore it and enjoy ! :smiley: :smiley: :smiley:==
+==  This project also provides some new controls like ***RangeSlider*** , explore it and enjoy ! :smiley: :smiley: :smiley: ==
