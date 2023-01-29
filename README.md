@@ -33,7 +33,7 @@ A WPF UI framework
 </Application>
 
 ```
-Replace *<ResourceDictionary Source="/Vorcyc.RoundUI;component/Assets/RoundUI.Light.xaml"/>* to *<ResourceDictionary Source="/Vorcyc.RoundUI;component/Assets/RoundUI.Dark.xaml"/>* will change the theme from Light to Dark.
+Replace **<ResourceDictionary Source="/Vorcyc.RoundUI;component/Assets/RoundUI.Light.xaml"/>** to **<ResourceDictionary Source="/Vorcyc.RoundUI;component/Assets/RoundUI.Dark.xaml"/>** will change the theme from Light to Dark.
 
 
 ### 3. Use the ModernNormalWindow or ModernWindow to replace System.Windows.Window .
@@ -56,7 +56,6 @@ Replace *<ResourceDictionary Source="/Vorcyc.RoundUI;component/Assets/RoundUI.Li
 </ui:RoundNormalWindow>
 
 ```
-
 
 ```csharp
 using Vorcyc.RoundUI.Windows.Controls;
