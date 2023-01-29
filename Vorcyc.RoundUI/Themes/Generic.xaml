@@ -1,0 +1,18 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:controls="clr-namespace:Vorcyc.RoundUI.Windows.Controls"
+                    xmlns:shell="http://schemas.microsoft.com/winfx/2006/xaml/presentation/shell">
+    
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/Vorcyc.RoundUI;component/Themes/BBCodeBlock.xaml" />
+        <ResourceDictionary Source="/Vorcyc.RoundUI;component/Themes/ModernButton.xaml" />
+        <ResourceDictionary Source="/Vorcyc.RoundUI;component/Themes/ModernDialog.xaml" />
+        <ResourceDictionary Source="/Vorcyc.RoundUI;component/Themes/ModernFrame.xaml" />
+        <ResourceDictionary Source="/Vorcyc.RoundUI;component/Themes/ModernMenu.xaml" />
+        <ResourceDictionary Source="/Vorcyc.RoundUI;component/Themes/ModernProgressRing.xaml" />
+        <ResourceDictionary Source="/Vorcyc.RoundUI;component/Themes/ModernTab.xaml" />
+        <ResourceDictionary Source="/Vorcyc.RoundUI;component/Themes/ModernWindow.xaml" />
+        <ResourceDictionary Source="/Vorcyc.RoundUI;component/Themes/TransitioningContentControl.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+ 
+</ResourceDictionary>

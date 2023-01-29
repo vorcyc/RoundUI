@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Page Update="Assets\BasicColors.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Button.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Calendar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\CheckBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ComboBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ContextMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Converters.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\DataGrid.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\DatePicker.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\GridSplitter.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Hyperlink.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Icons.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Label.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ListBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Menu.Dark.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Menu.Light.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Menu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\MenuItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ModernNormalWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ModernProgressRing.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\RoundUI.Dark.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\RoundUI.Light.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\RoundUI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ModernWindowEx.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\PasswordBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ProgressBar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\RadioButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\RangeSlider.Colors.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\RangeSlider.Slider.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\RangeSlider.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ScrollBar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Slider.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\TextBlock.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\TextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ToggleButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Toolbar.Dark.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ToolTip.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\TreeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\BBCodeBlock.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\Generic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\ModernButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\ModernDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\ModernFrame.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\ModernMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\ModernProgressRing.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\ModernTab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\ModernWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\TransitioningContentControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
